@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Wisdom-Edinam
 
-<!--
-**Wisdom-Edinam/Wisdom-Edinam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about turning data into insights. I enjoy working with databases, exploring data, and building analytics solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Interests:**  
+Data Analytics, SQL, Data Warehousing, BI Tools
+
+🛠️ **Tools I use:**  
+Python, SQL, PostgreSQL, Power BI, Pandas
+
+🌱 **Currently learning:**  
+Advanced analytics & data engineering concepts
+
+📊 Always exploring better ways to organize, visualize, and understand data.
+
+---
